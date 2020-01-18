@@ -4,12 +4,8 @@ title: Tools
 permalink: /tools/
 ---
 
-* [ImmunoBase](http://www.immunobase.org) - A web portal for all your human autoimmune genetics needs.
-* [T1DBase](http://www.t1dbase.org) - A web portal for all your T1D genetics needs.
+* [cupcake](https://github.com/ollyburren/cupcake) - Identify genetic components of risk across multiple clinically related diseases.
+* [rCOGS](https://github.com/ollyburren/rCOGS) - Combine fine mapping using GWAS summary statistics with promoter capture Hi-C to prioritise casual candidate genes.
+* [ImmunoBase](https://genetics.opentargets.org/immunobase) - A web portal for all your human autoimmune genetics needs.
 * [CHiCP](http://www.chicp.org) - A tool for integrating GWAS with capture Hi-C data visually.
 * [VSEAMS](http://www.ncbi.nlm.nih.gov/pubmed/25170024) - Variant set enrichment analysis using multivariate normal sampling.
-
-Stuff I'm working on and is in progress:-
-
-* [COGS](http://ollyburren.github.io/resources/BURREN_GCD2015.pdf) - **C**apture Hi-C **O**mnibus **G**ene **S**core - [code](https://github.com/ollyburren/CHIGP).
-* [BLOCKSHIFTER](http://github.com/ollyburren/CHIGP) - A tool for examining enrichment of GWAS signals in capture Hi-C data, taking into account LD and interaction correlation. 
